@@ -1,0 +1,89 @@
+/* 设计系统颜色变量 */
+:root {
+  /* 主色系 */
+  --primary-color: #1890FF;
+  --primary-light: #40a9ff;
+  --primary-dark: #096dd9;
+  
+  /* 公文专用红色 - 仅用于红头文字、红线、印章 */
+  --danger-color: #FF0000;
+  
+  /* 背景色 */
+  --bg-color: #F5F7FA;
+  --bg-white: #FFFFFF;
+  
+  /* 文字颜色 */
+  --text-primary: #303133;
+  --text-secondary: #606266;
+  --text-placeholder: #C0C4CC;
+  
+  /* 边框颜色 */
+  --border-color: #DCDFE6;
+  
+  /* 卡片阴影 */
+  --card-shadow: 0 2px 12px 0 rgba(0, 0, 0, 0.1);
+  
+  /* 圆角 */
+  --border-radius: 8px;
+}
+
+/* 全局样式重置 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-primary);
+  line-height: 1.6;
+}
+
+/* 卡片通用样式 */
+.card {
+  background: var(--bg-white);
+  border-radius: var(--border-radius);
+  box-shadow: var(--card-shadow);
+  padding: 20px;
+}
+
+/* 页面容器 */
+.page-container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* 红头文件专用字体 */
+.document-title {
+  font-family: 'SimHei', 'STHeiti', 'Microsoft YaHei', sans-serif;
+  color: var(--danger-color);
+  font-weight: bold;
+}
+
+.document-content {
+  font-family: 'FangSong', 'STFangsong', serif;
+  line-height: 2;
+  font-size: 16px;
+}
+
+/* 滚动条美化 */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}

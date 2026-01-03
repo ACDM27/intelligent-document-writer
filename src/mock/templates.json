@@ -1,0 +1,376 @@
+[
+    {
+        "id": "admin_notice_001",
+        "title": "通用会议通知模板",
+        "category": "行政公文",
+        "subCategory": "通知",
+        "thumbnail": "/templates/admin_notice.png",
+        "level": "校级红头",
+        "source": "校标2026版",
+        "season": "通用",
+        "usageCount": 1208,
+        "headerType": "admin",
+        "issuer": "广西警察学院",
+        "description": "适用于各类会议通知，包含会议时间、地点、参会人员等标准要素",
+        "previewContent": {
+            "title": "关于召开2026年春季学期教学工作会议的通知",
+            "docNumber": "桂警院教字〔2026〕15号",
+            "recipients": "各学院、各部门",
+            "content": "各学院、各部门：\n\n为全面总结2025年秋季学期教学工作，部署2026年春季学期重点任务，经研究，定于2026年3月5日召开2026年春季学期教学工作会议。现将有关事项通知如下：\n\n一、会议时间\n2026年3月5日（星期三）下午14:30\n\n二、会议地点\n行政楼三楼会议室\n\n三、参会人员\n1. 各学院院长、分管教学副院长\n2. 教务处全体人员\n3. 教学督导组成员\n\n四、会议议程\n1. 教务处处长作2025年秋季学期教学工作总结\n2. 部署2026年春季学期重点工作\n3. 讨论《广西警察学院本科教学质量提升方案》\n4. 校领导讲话\n\n五、相关要求\n1. 请各单位高度重视，按时参会，不得缺席\n2. 请参会人员提前准备相关材料\n3. 会议期间请将手机调至静音\n\n特此通知。\n\n广西警察学院教务处\n2026年2月28日",
+            "date": "2026年2月28日"
+        },
+        "structure": {
+            "sections": [
+                {
+                    "id": "background",
+                    "title": "会议背景",
+                    "required": false
+                },
+                {
+                    "id": "time",
+                    "title": "会议时间",
+                    "required": true
+                },
+                {
+                    "id": "location",
+                    "title": "会议地点",
+                    "required": true
+                },
+                {
+                    "id": "participants",
+                    "title": "参会人员",
+                    "required": true
+                },
+                {
+                    "id": "agenda",
+                    "title": "会议议程",
+                    "required": true
+                },
+                {
+                    "id": "requirements",
+                    "title": "相关要求",
+                    "required": true
+                }
+            ]
+        },
+        "tags": [
+            "高频使用",
+            "标准模板"
+        ]
+    },
+    {
+        "id": "admin_report_001",
+        "title": "请示报告标准模板",
+        "category": "行政公文",
+        "subCategory": "请示",
+        "thumbnail": "/templates/admin_report.png",
+        "level": "校级红头",
+        "source": "教育部标准",
+        "season": "通用",
+        "usageCount": 856,
+        "headerType": "admin",
+        "issuer": "广西警察学院",
+        "description": "用于向上级请示重要事项，符合公文处理规范",
+        "structure": {
+            "sections": [
+                {
+                    "id": "reason",
+                    "title": "请示缘由",
+                    "required": true
+                },
+                {
+                    "id": "content",
+                    "title": "请示事项",
+                    "required": true
+                },
+                {
+                    "id": "plan",
+                    "title": "拟办方案",
+                    "required": true
+                },
+                {
+                    "id": "request",
+                    "title": "请示要求",
+                    "required": true
+                }
+            ]
+        },
+        "tags": [
+            "规范模板"
+        ]
+    },
+    {
+        "id": "party_lesson_001",
+        "title": "党课教案模板",
+        "category": "党务文书",
+        "subCategory": "党课教案",
+        "thumbnail": "/templates/party_lesson.png",
+        "level": "党委红头",
+        "source": "校标2026版",
+        "season": "通用",
+        "usageCount": 432,
+        "headerType": "party",
+        "issuer": "中共广西警察学院委员会",
+        "description": "标准党课教案格式，包含教学目标、重点难点、教学过程等",
+        "structure": {
+            "sections": [
+                {
+                    "id": "topic",
+                    "title": "课题名称",
+                    "required": true
+                },
+                {
+                    "id": "objective",
+                    "title": "教学目标",
+                    "required": true
+                },
+                {
+                    "id": "keypoints",
+                    "title": "重点难点",
+                    "required": true
+                },
+                {
+                    "id": "process",
+                    "title": "教学过程",
+                    "required": true
+                },
+                {
+                    "id": "summary",
+                    "title": "课堂小结",
+                    "required": true
+                }
+            ]
+        },
+        "tags": [
+            "党建专用"
+        ]
+    },
+    {
+        "id": "research_nsfc_001",
+        "title": "国家自然科学基金申报书",
+        "category": "科研业务",
+        "subCategory": "项目申报",
+        "thumbnail": "/templates/nsfc_proposal.png",
+        "level": "便函",
+        "source": "教育部标准",
+        "season": "申报季",
+        "usageCount": 2156,
+        "headerType": "letter",
+        "issuer": "广西警察学院",
+        "description": "国自然申报标准格式，包含研究背景、方案、预期成果等",
+        "structure": {
+            "sections": [
+                {
+                    "id": "summary",
+                    "title": "项目摘要",
+                    "required": true
+                },
+                {
+                    "id": "background",
+                    "title": "立项依据",
+                    "required": true
+                },
+                {
+                    "id": "plan",
+                    "title": "研究方案",
+                    "required": true
+                },
+                {
+                    "id": "foundation",
+                    "title": "研究基础",
+                    "required": true
+                },
+                {
+                    "id": "budget",
+                    "title": "经费预算",
+                    "required": true
+                }
+            ]
+        },
+        "tags": [
+            "高频使用",
+            "申报季"
+        ]
+    },
+    {
+        "id": "teaching_syllabus_001",
+        "title": "课程教学大纲模板",
+        "category": "教学教务",
+        "subCategory": "教学大纲",
+        "thumbnail": "/templates/syllabus.png",
+        "level": "院级红头",
+        "source": "校标2026版",
+        "season": "开学季",
+        "usageCount": 1543,
+        "headerType": "admin",
+        "issuer": "广西警察学院教务处",
+        "description": "标准课程大纲格式，符合本科教学审核评估要求",
+        "structure": {
+            "sections": [
+                {
+                    "id": "info",
+                    "title": "课程基本信息",
+                    "required": true
+                },
+                {
+                    "id": "objective",
+                    "title": "课程目标",
+                    "required": true
+                },
+                {
+                    "id": "content",
+                    "title": "教学内容",
+                    "required": true
+                },
+                {
+                    "id": "assessment",
+                    "title": "考核方式",
+                    "required": true
+                },
+                {
+                    "id": "resources",
+                    "title": "教学资源",
+                    "required": true
+                }
+            ]
+        },
+        "tags": [
+            "教务专用",
+            "开学季"
+        ]
+    },
+    {
+        "id": "student_scholarship_001",
+        "title": "奖助学金申请表",
+        "category": "学生工作",
+        "subCategory": "奖助学金",
+        "thumbnail": "/templates/scholarship.png",
+        "level": "便函",
+        "source": "校标2026版",
+        "season": "评优季",
+        "usageCount": 3421,
+        "headerType": "letter",
+        "issuer": "广西警察学院学生工作部",
+        "description": "学生奖助学金申请标准表格",
+        "structure": {
+            "sections": [
+                {
+                    "id": "personal",
+                    "title": "个人信息",
+                    "required": true
+                },
+                {
+                    "id": "achievement",
+                    "title": "主要成绩",
+                    "required": true
+                },
+                {
+                    "id": "reason",
+                    "title": "申请理由",
+                    "required": true
+                },
+                {
+                    "id": "proof",
+                    "title": "证明材料",
+                    "required": false
+                }
+            ]
+        },
+        "tags": [
+            "学生专用",
+            "高频使用"
+        ]
+    },
+    {
+        "id": "admin_meeting_001",
+        "title": "会议纪要标准模板",
+        "category": "行政公文",
+        "subCategory": "会议纪要",
+        "thumbnail": "/templates/meeting_minutes.png",
+        "level": "校级红头",
+        "source": "校标2026版",
+        "season": "通用",
+        "usageCount": 987,
+        "headerType": "admin",
+        "issuer": "广西警察学院",
+        "description": "标准会议纪要格式，包含会议基本信息和决议事项",
+        "structure": {
+            "sections": [
+                {
+                    "id": "info",
+                    "title": "会议基本信息",
+                    "required": true
+                },
+                {
+                    "id": "attendees",
+                    "title": "参会人员",
+                    "required": true
+                },
+                {
+                    "id": "agenda",
+                    "title": "会议议程",
+                    "required": true
+                },
+                {
+                    "id": "discussion",
+                    "title": "讨论内容",
+                    "required": true
+                },
+                {
+                    "id": "resolution",
+                    "title": "会议决议",
+                    "required": true
+                }
+            ]
+        },
+        "tags": [
+            "标准模板"
+        ]
+    },
+    {
+        "id": "research_midterm_001",
+        "title": "科研项目中期报告",
+        "category": "科研业务",
+        "subCategory": "中期报告",
+        "thumbnail": "/templates/midterm_report.png",
+        "level": "便函",
+        "source": "自定义",
+        "season": "通用",
+        "usageCount": 654,
+        "headerType": "letter",
+        "issuer": "广西警察学院科研处",
+        "description": "科研项目中期检查报告模板",
+        "structure": {
+            "sections": [
+                {
+                    "id": "progress",
+                    "title": "研究进展",
+                    "required": true
+                },
+                {
+                    "id": "achievement",
+                    "title": "阶段成果",
+                    "required": true
+                },
+                {
+                    "id": "problems",
+                    "title": "存在问题",
+                    "required": true
+                },
+                {
+                    "id": "plan",
+                    "title": "下一步计划",
+                    "required": true
+                },
+                {
+                    "id": "budget",
+                    "title": "经费使用",
+                    "required": true
+                }
+            ]
+        },
+        "tags": [
+            "科研专用"
+        ]
+    }
+]

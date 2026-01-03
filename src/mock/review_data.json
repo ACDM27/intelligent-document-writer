@@ -1,0 +1,85 @@
+[
+    {
+        "id": "review_001",
+        "title": "关于召开2026年春季学期教学工作会议的通知",
+        "type": "行政公文",
+        "status": "审阅中",
+        "creator": "张教授",
+        "createTime": "2026-01-03 14:30",
+        "complianceScore": 85,
+        "collaborators": [
+            {
+                "name": "李主任",
+                "role": "修订者",
+                "status": "已审阅",
+                "time": "2026-01-03 16:20"
+            },
+            {
+                "name": "王老师",
+                "role": "批注者",
+                "status": "待审阅",
+                "time": null
+            }
+        ],
+        "issues": [
+            {
+                "id": "issue_001",
+                "type": "引用合规性",
+                "severity": "warning",
+                "title": "引用文件可能已失效",
+                "description": "文中引用《广西警察学院教学管理办法（2023版）》，该文件已于2025年12月被《广西警察学院教学管理办法（2025修订版）》替代",
+                "position": {
+                    "line": 15,
+                    "start": 120,
+                    "end": 145
+                },
+                "suggestion": "建议替换为《广西警察学院教学管理办法（2025修订版）》",
+                "autoFix": true
+            },
+            {
+                "id": "issue_002",
+                "type": "格式规范性",
+                "severity": "error",
+                "title": "文号格式不规范",
+                "description": "文号使用了普通括号()，应使用六角括号〔〕",
+                "position": {
+                    "line": 3,
+                    "start": 45,
+                    "end": 60
+                },
+                "suggestion": "将'桂警院教字(2026)15号'改为'桂警院教字〔2026〕15号'",
+                "autoFix": true
+            },
+            {
+                "id": "issue_003",
+                "type": "内容敏感性",
+                "severity": "info",
+                "title": "职衔可能不准确",
+                "description": "文中提到'张校长'，根据知识库，应为'张XX校长'（全名）",
+                "position": {
+                    "line": 28,
+                    "start": 200,
+                    "end": 203
+                },
+                "suggestion": "建议使用全名或规范简称",
+                "autoFix": false
+            }
+        ],
+        "versions": [
+            {
+                "id": "v1",
+                "name": "初稿",
+                "creator": "张教授",
+                "time": "2026-01-03 14:30",
+                "description": "AI生成初稿"
+            },
+            {
+                "id": "v2",
+                "name": "李主任修订版",
+                "creator": "李主任",
+                "time": "2026-01-03 16:20",
+                "description": "修正了部分格式问题"
+            }
+        ]
+    }
+]

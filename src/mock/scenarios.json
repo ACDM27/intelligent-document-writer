@@ -1,0 +1,124 @@
+[
+    {
+        "id": "admin_notice",
+        "name": "行政通知",
+        "icon": "Document",
+        "category": "admin",
+        "default_kb": [
+            "school_rule_2025"
+        ],
+        "outline_template": [
+            {
+                "label": "一、通知背景与目的",
+                "children": []
+            },
+            {
+                "label": "二、主要内容",
+                "children": [
+                    {
+                        "label": "2.1 培训时间"
+                    },
+                    {
+                        "label": "2.2 培训地点"
+                    },
+                    {
+                        "label": "2.3 参加人员"
+                    }
+                ]
+            },
+            {
+                "label": "三、工作要求",
+                "children": []
+            },
+            {
+                "label": "四、其他事项",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": "meeting_minutes",
+        "name": "会议纪要",
+        "icon": "Notebook",
+        "category": "admin",
+        "default_kb": [
+            "meeting_rules"
+        ],
+        "outline_template": [
+            {
+                "label": "一、会议基本信息",
+                "children": []
+            },
+            {
+                "label": "二、会议议程",
+                "children": []
+            },
+            {
+                "label": "三、讨论内容",
+                "children": []
+            },
+            {
+                "label": "四、决议事项",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": "request_report",
+        "name": "请示报告",
+        "icon": "Edit",
+        "category": "admin",
+        "default_kb": [
+            "admin_process"
+        ],
+        "outline_template": [
+            {
+                "label": "一、请示缘由",
+                "children": []
+            },
+            {
+                "label": "二、具体事项",
+                "children": []
+            },
+            {
+                "label": "三、建议方案",
+                "children": []
+            },
+            {
+                "label": "四、请示事项",
+                "children": []
+            }
+        ]
+    },
+    {
+        "id": "project_proposal",
+        "name": "项目申报书",
+        "icon": "Files",
+        "category": "research",
+        "default_kb": [
+            "research_standards"
+        ],
+        "outline_template": [
+            {
+                "label": "一、项目基本信息",
+                "children": []
+            },
+            {
+                "label": "二、研究背景与意义",
+                "children": []
+            },
+            {
+                "label": "三、研究目标与内容",
+                "children": []
+            },
+            {
+                "label": "四、预期成果",
+                "children": []
+            },
+            {
+                "label": "五、经费预算",
+                "children": []
+            }
+        ]
+    }
+]

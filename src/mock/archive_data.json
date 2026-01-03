@@ -1,0 +1,391 @@
+[
+    {
+        "id": "archive_001",
+        "title": "关于召开2025年秋季学期教学工作总结会议的通知",
+        "docNumber": "桂警院教字〔2025〕45号",
+        "type": "行政公文",
+        "category": "通知",
+        "department": "教务处",
+        "creator": "张教授",
+        "archiveDate": "2025-12-15",
+        "year": "2025",
+        "semester": "秋季学期",
+        "month": "12",
+        "status": "已归档",
+        "securityLevel": "公开",
+        "tags": [
+            "教学工作",
+            "会议通知",
+            "本科教学"
+        ],
+        "summary": "关于召开2025年秋季学期教学工作总结会议的通知，总结本学期教学工作成果，部署下学期工作计划。",
+        "hasAttachment": true,
+        "viewCount": 156,
+        "cloneCount": 12,
+        "structure": {
+            "sections": [
+                "会议时间",
+                "会议地点",
+                "参会人员",
+                "会议议程",
+                "相关要求"
+            ]
+        },
+        "references": [
+            {
+                "id": "ref_001",
+                "title": "广西警察学院本科教学管理规定",
+                "type": "制度法规"
+            }
+        ]
+    },
+    {
+        "id": "archive_002",
+        "title": "2025年国家自然科学基金申报书",
+        "docNumber": "桂警院科字〔2025〕12号",
+        "type": "科研材料",
+        "category": "申报书",
+        "department": "科研处",
+        "creator": "李教授",
+        "archiveDate": "2025-03-20",
+        "year": "2025",
+        "semester": "春季学期",
+        "month": "3",
+        "status": "已归档",
+        "securityLevel": "内部",
+        "tags": [
+            "国自然",
+            "科研申报",
+            "基金项目"
+        ],
+        "summary": "2025年国家自然科学基金项目申报书，研究方向为人工智能在公安领域的应用。",
+        "hasAttachment": true,
+        "viewCount": 289,
+        "cloneCount": 45,
+        "structure": {
+            "sections": [
+                "项目基本信息",
+                "研究背景与意义",
+                "研究内容与目标",
+                "研究方案与技术路线",
+                "预期成果",
+                "研究基础与条件",
+                "经费预算"
+            ]
+        },
+        "references": [
+            {
+                "id": "ref_002",
+                "title": "国家自然科学基金管理办法",
+                "type": "制度法规"
+            }
+        ]
+    },
+    {
+        "id": "archive_003",
+        "title": "一流本科课程申报书（数据结构与算法）",
+        "docNumber": "桂警院教字〔2025〕28号",
+        "type": "教学材料",
+        "category": "申报书",
+        "department": "计算机学院",
+        "creator": "王教授",
+        "archiveDate": "2025-06-10",
+        "year": "2025",
+        "semester": "春季学期",
+        "month": "6",
+        "status": "已归档",
+        "securityLevel": "公开",
+        "tags": [
+            "一流课程",
+            "本科教学",
+            "课程建设"
+        ],
+        "summary": "数据结构与算法课程申报国家级一流本科课程的申报材料，包含课程建设成果和特色。",
+        "hasAttachment": true,
+        "viewCount": 423,
+        "cloneCount": 78,
+        "structure": {
+            "sections": [
+                "课程基本信息",
+                "课程建设基础",
+                "课程特色与创新",
+                "教学团队",
+                "教学资源",
+                "教学效果",
+                "持续改进计划"
+            ]
+        },
+        "references": [
+            {
+                "id": "ref_003",
+                "title": "教育部一流本科课程建设实施办法",
+                "type": "制度法规"
+            }
+        ]
+    },
+    {
+        "id": "archive_004",
+        "title": "关于2025年五一劳动节放假安排的通知",
+        "docNumber": "桂警院办字〔2025〕15号",
+        "type": "行政公文",
+        "category": "通知",
+        "department": "学校办公室",
+        "creator": "陈主任",
+        "archiveDate": "2025-04-20",
+        "year": "2025",
+        "semester": "春季学期",
+        "month": "4",
+        "status": "已归档",
+        "securityLevel": "公开",
+        "tags": [
+            "放假通知",
+            "节假日",
+            "行政管理"
+        ],
+        "summary": "关于2025年五一劳动节放假安排的通知，明确放假时间及相关工作安排。",
+        "hasAttachment": false,
+        "viewCount": 892,
+        "cloneCount": 5,
+        "structure": {
+            "sections": [
+                "放假时间",
+                "值班安排",
+                "安全提示",
+                "相关要求"
+            ]
+        },
+        "references": []
+    },
+    {
+        "id": "archive_005",
+        "title": "2025年度科研项目结题报告",
+        "docNumber": "桂警院科字〔2025〕38号",
+        "type": "科研材料",
+        "category": "结题报告",
+        "department": "科研处",
+        "creator": "赵教授",
+        "archiveDate": "2025-11-05",
+        "year": "2025",
+        "semester": "秋季学期",
+        "month": "11",
+        "status": "已归档",
+        "securityLevel": "内部",
+        "tags": [
+            "科研项目",
+            "结题报告",
+            "成果总结"
+        ],
+        "summary": "2025年度科研项目结题报告，总结项目研究成果及经费使用情况。",
+        "hasAttachment": true,
+        "viewCount": 167,
+        "cloneCount": 23,
+        "structure": {
+            "sections": [
+                "项目概况",
+                "研究工作总结",
+                "研究成果",
+                "经费使用情况",
+                "存在问题与建议"
+            ]
+        },
+        "references": [
+            {
+                "id": "ref_004",
+                "title": "科研项目管理办法",
+                "type": "制度法规"
+            }
+        ]
+    },
+    {
+        "id": "archive_006",
+        "title": "关于开展2026年春季学期教学检查的通知",
+        "docNumber": "桂警院教字〔2026〕03号",
+        "type": "行政公文",
+        "category": "通知",
+        "department": "教务处",
+        "creator": "刘处长",
+        "archiveDate": "2026-02-28",
+        "year": "2026",
+        "semester": "春季学期",
+        "month": "2",
+        "status": "已归档",
+        "securityLevel": "公开",
+        "tags": [
+            "教学检查",
+            "质量监控",
+            "本科教学"
+        ],
+        "summary": "关于开展2026年春季学期教学检查的通知，明确检查时间、内容和要求。",
+        "hasAttachment": true,
+        "viewCount": 234,
+        "cloneCount": 8,
+        "structure": {
+            "sections": [
+                "检查目的",
+                "检查时间",
+                "检查内容",
+                "检查方式",
+                "工作要求"
+            ]
+        },
+        "references": [
+            {
+                "id": "ref_005",
+                "title": "本科教学质量监控办法",
+                "type": "制度法规"
+            }
+        ]
+    },
+    {
+        "id": "archive_007",
+        "title": "计算机学院2025年度工作总结",
+        "docNumber": "桂警院计字〔2025〕50号",
+        "type": "行政公文",
+        "category": "工作总结",
+        "department": "计算机学院",
+        "creator": "孙院长",
+        "archiveDate": "2025-12-30",
+        "year": "2025",
+        "semester": "秋季学期",
+        "month": "12",
+        "status": "已归档",
+        "securityLevel": "内部",
+        "tags": [
+            "年度总结",
+            "学院工作",
+            "工作汇报"
+        ],
+        "summary": "计算机学院2025年度工作总结，包含教学、科研、学生工作等各方面成果。",
+        "hasAttachment": true,
+        "viewCount": 145,
+        "cloneCount": 15,
+        "structure": {
+            "sections": [
+                "教学工作",
+                "科研工作",
+                "学生工作",
+                "师资队伍建设",
+                "存在问题",
+                "下年度计划"
+            ]
+        },
+        "references": []
+    },
+    {
+        "id": "archive_008",
+        "title": "关于举办第五届大学生程序设计竞赛的通知",
+        "docNumber": "桂警院教字〔2025〕35号",
+        "type": "行政公文",
+        "category": "通知",
+        "department": "教务处",
+        "creator": "周老师",
+        "archiveDate": "2025-10-15",
+        "year": "2025",
+        "semester": "秋季学期",
+        "month": "10",
+        "status": "已归档",
+        "securityLevel": "公开",
+        "tags": [
+            "学科竞赛",
+            "程序设计",
+            "创新创业"
+        ],
+        "summary": "关于举办第五届大学生程序设计竞赛的通知，明确竞赛时间、规则和奖项设置。",
+        "hasAttachment": true,
+        "viewCount": 567,
+        "cloneCount": 34,
+        "structure": {
+            "sections": [
+                "竞赛目的",
+                "竞赛时间",
+                "参赛对象",
+                "竞赛规则",
+                "奖项设置",
+                "报名方式"
+            ]
+        },
+        "references": []
+    },
+    {
+        "id": "archive_009",
+        "title": "2026年度省级教改项目申报书",
+        "docNumber": "桂警院教字〔2026〕08号",
+        "type": "教学材料",
+        "category": "申报书",
+        "department": "教务处",
+        "creator": "吴教授",
+        "archiveDate": "2026-03-15",
+        "year": "2026",
+        "semester": "春季学期",
+        "month": "3",
+        "status": "已归档",
+        "securityLevel": "公开",
+        "tags": [
+            "教改项目",
+            "教学研究",
+            "项目申报"
+        ],
+        "summary": "2026年度省级教改项目申报书，研究主题为混合式教学模式改革与实践。",
+        "hasAttachment": true,
+        "viewCount": 198,
+        "cloneCount": 42,
+        "structure": {
+            "sections": [
+                "项目基本信息",
+                "改革背景",
+                "改革目标",
+                "改革内容",
+                "实施方案",
+                "预期成果",
+                "经费预算"
+            ]
+        },
+        "references": [
+            {
+                "id": "ref_006",
+                "title": "省级教改项目管理办法",
+                "type": "制度法规"
+            }
+        ]
+    },
+    {
+        "id": "archive_010",
+        "title": "关于加强实验室安全管理的通知",
+        "docNumber": "桂警院实字〔2025〕20号",
+        "type": "行政公文",
+        "category": "通知",
+        "department": "实验室管理中心",
+        "creator": "郑主任",
+        "archiveDate": "2025-09-10",
+        "year": "2025",
+        "semester": "秋季学期",
+        "month": "9",
+        "status": "已归档",
+        "securityLevel": "公开",
+        "tags": [
+            "实验室安全",
+            "安全管理",
+            "规章制度"
+        ],
+        "summary": "关于加强实验室安全管理的通知，强化实验室安全责任制，确保师生安全。",
+        "hasAttachment": false,
+        "viewCount": 456,
+        "cloneCount": 6,
+        "structure": {
+            "sections": [
+                "安全责任",
+                "管理要求",
+                "应急预案",
+                "检查制度",
+                "责任追究"
+            ]
+        },
+        "references": [
+            {
+                "id": "ref_007",
+                "title": "实验室安全管理规定",
+                "type": "制度法规"
+            }
+        ]
+    }
+]

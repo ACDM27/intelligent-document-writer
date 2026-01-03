@@ -1,0 +1,164 @@
+[
+    {
+        "id": "kb_rules",
+        "name": "制度法规库",
+        "icon": "Stamp",
+        "color": "#1890FF",
+        "description": "存放教育部令、省教育厅文件、学校章程等硬约束",
+        "documentCount": 156,
+        "lastUpdate": "2026-01-03",
+        "tags": [
+            "现行有效",
+            "国家级",
+            "省部级",
+            "校级"
+        ],
+        "documents": [
+            {
+                "id": "doc_001",
+                "title": "广西警察学院本科学生学籍管理规定（2024修订版）",
+                "authorityLevel": "校级",
+                "validityPeriod": "现行有效",
+                "department": "教务处",
+                "year": "2024",
+                "tags": [
+                    "学籍管理",
+                    "本科教学"
+                ],
+                "uploadDate": "2024-09-01",
+                "fileSize": "2.3 MB",
+                "pageCount": 45
+            },
+            {
+                "id": "doc_002",
+                "title": "教育部关于加强高校本科教学质量的若干意见",
+                "authorityLevel": "国家级",
+                "validityPeriod": "现行有效",
+                "department": "教务处",
+                "year": "2023",
+                "tags": [
+                    "教学质量",
+                    "本科教学"
+                ],
+                "uploadDate": "2023-05-15",
+                "fileSize": "1.8 MB",
+                "pageCount": 28
+            }
+        ]
+    },
+    {
+        "id": "kb_samples",
+        "name": "历史文书库",
+        "icon": "FolderOpened",
+        "color": "#52C41A",
+        "description": "往年高质量金样本，如优秀申报书、活动策划案等",
+        "documentCount": 423,
+        "lastUpdate": "2026-01-02",
+        "tags": [
+            "已脱敏",
+            "优秀案例",
+            "参考模板"
+        ],
+        "documents": [
+            {
+                "id": "sample_001",
+                "title": "2024年国家自然科学基金申报书（优秀案例-已脱敏）",
+                "category": "科研申报",
+                "department": "科研处",
+                "year": "2024",
+                "tags": [
+                    "国自然",
+                    "优秀案例",
+                    "已脱敏"
+                ],
+                "uploadDate": "2024-12-20",
+                "fileSize": "5.6 MB",
+                "pageCount": 68,
+                "desensitized": true
+            },
+            {
+                "id": "sample_002",
+                "title": "2025年校庆70周年活动策划方案",
+                "category": "活动策划",
+                "department": "党委宣传部",
+                "year": "2025",
+                "tags": [
+                    "校庆",
+                    "活动策划",
+                    "优秀案例"
+                ],
+                "uploadDate": "2025-10-01",
+                "fileSize": "3.2 MB",
+                "pageCount": 35,
+                "desensitized": true
+            }
+        ]
+    },
+    {
+        "id": "kb_terminology",
+        "name": "专用术语库",
+        "icon": "Reading",
+        "color": "#FA8C16",
+        "description": "高校特有术语、缩写和规范用语",
+        "documentCount": 892,
+        "lastUpdate": "2026-01-01",
+        "tags": [
+            "术语规范",
+            "自动纠错"
+        ],
+        "terms": [
+            {
+                "id": "term_001",
+                "incorrect": "那个盖楼的项目",
+                "correct": "产教融合实训基地建设项目",
+                "category": "项目名称",
+                "usage": "在正式文件中应使用规范的项目全称"
+            },
+            {
+                "id": "term_002",
+                "incorrect": "张校长",
+                "correct": "张XX校长",
+                "category": "人名规范",
+                "usage": "公文中应使用全名或规范简称"
+            },
+            {
+                "id": "term_003",
+                "incorrect": "双一流",
+                "correct": "世界一流大学和一流学科建设",
+                "category": "政策术语",
+                "usage": "首次出现应使用全称，后续可简称"
+            }
+        ]
+    },
+    {
+        "id": "kb_personal",
+        "name": "个人素材库",
+        "icon": "User",
+        "color": "#722ED1",
+        "description": "个人常用段落、团队介绍、设备清单等",
+        "documentCount": 67,
+        "lastUpdate": "2026-01-04",
+        "tags": [
+            "个人资料",
+            "快速引用"
+        ],
+        "materials": [
+            {
+                "id": "material_001",
+                "title": "科研团队简介",
+                "category": "团队介绍",
+                "content": "本团队现有教授3人，副教授5人，讲师8人...",
+                "lastUpdate": "2025-12-15",
+                "usageCount": 23
+            },
+            {
+                "id": "material_002",
+                "title": "实验室设备清单",
+                "category": "设备资源",
+                "content": "高性能计算集群1套，GPU服务器5台...",
+                "lastUpdate": "2025-11-20",
+                "usageCount": 15
+            }
+        ]
+    }
+]

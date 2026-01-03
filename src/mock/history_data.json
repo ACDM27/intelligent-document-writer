@@ -1,0 +1,281 @@
+[
+    {
+        "id": "history_001",
+        "action": "创建文档",
+        "documentTitle": "关于召开2026年春季学期教学工作会议的通知",
+        "documentType": "行政公文",
+        "status": "已完成",
+        "timestamp": "2026-01-03 14:30:25",
+        "duration": "15分钟",
+        "steps": [
+            {
+                "step": "需求录入",
+                "status": "completed",
+                "time": "2026-01-03 14:30:25"
+            },
+            {
+                "step": "大纲确认",
+                "status": "completed",
+                "time": "2026-01-03 14:35:10"
+            },
+            {
+                "step": "智能撰写",
+                "status": "completed",
+                "time": "2026-01-03 14:40:15"
+            },
+            {
+                "step": "排版归档",
+                "status": "completed",
+                "time": "2026-01-03 14:45:25"
+            }
+        ],
+        "details": {
+            "scenario": "会议通知",
+            "template": "通用会议通知模板",
+            "wordCount": 856,
+            "exported": true,
+            "archived": true
+        }
+    },
+    {
+        "id": "history_002",
+        "action": "编辑文档",
+        "documentTitle": "2026年度科研项目申报书",
+        "documentType": "科研材料",
+        "status": "进行中",
+        "timestamp": "2026-01-03 10:15:30",
+        "duration": "45分钟",
+        "steps": [
+            {
+                "step": "需求录入",
+                "status": "completed",
+                "time": "2026-01-03 10:15:30"
+            },
+            {
+                "step": "大纲确认",
+                "status": "completed",
+                "time": "2026-01-03 10:25:45"
+            },
+            {
+                "step": "智能撰写",
+                "status": "in_progress",
+                "time": "2026-01-03 10:40:20"
+            }
+        ],
+        "details": {
+            "scenario": "科研申报",
+            "template": "国家自然科学基金申报书模板",
+            "wordCount": 3245,
+            "exported": false,
+            "archived": false
+        }
+    },
+    {
+        "id": "history_003",
+        "action": "复刻文档",
+        "documentTitle": "一流本科课程申报书（计算机网络）",
+        "documentType": "教学材料",
+        "status": "已完成",
+        "timestamp": "2026-01-02 16:20:15",
+        "duration": "30分钟",
+        "steps": [
+            {
+                "step": "选择模板",
+                "status": "completed",
+                "time": "2026-01-02 16:20:15"
+            },
+            {
+                "step": "复刻结构",
+                "status": "completed",
+                "time": "2026-01-02 16:22:30"
+            },
+            {
+                "step": "内容填充",
+                "status": "completed",
+                "time": "2026-01-02 16:35:45"
+            },
+            {
+                "step": "导出文档",
+                "status": "completed",
+                "time": "2026-01-02 16:50:15"
+            }
+        ],
+        "details": {
+            "scenario": "课程申报",
+            "template": "一流本科课程申报书模板",
+            "clonedFrom": "archive_003",
+            "wordCount": 4567,
+            "exported": true,
+            "archived": true
+        }
+    },
+    {
+        "id": "history_004",
+        "action": "审阅协作",
+        "documentTitle": "计算机学院2026年工作计划",
+        "documentType": "行政公文",
+        "status": "待审阅",
+        "timestamp": "2026-01-02 09:30:00",
+        "duration": "20分钟",
+        "steps": [
+            {
+                "step": "发起协作",
+                "status": "completed",
+                "time": "2026-01-02 09:30:00"
+            },
+            {
+                "step": "AI检视",
+                "status": "completed",
+                "time": "2026-01-02 09:32:15"
+            },
+            {
+                "step": "等待审阅",
+                "status": "in_progress",
+                "time": "2026-01-02 09:35:30"
+            }
+        ],
+        "details": {
+            "scenario": "工作计划",
+            "collaborators": [
+                "李主任",
+                "王老师"
+            ],
+            "complianceScore": 88,
+            "issuesFound": 3,
+            "wordCount": 2134
+        }
+    },
+    {
+        "id": "history_005",
+        "action": "查看归档",
+        "documentTitle": "2025年五一劳动节放假通知",
+        "documentType": "行政公文",
+        "status": "已查看",
+        "timestamp": "2026-01-01 15:45:20",
+        "duration": "5分钟",
+        "steps": [
+            {
+                "step": "搜索文档",
+                "status": "completed",
+                "time": "2026-01-01 15:45:20"
+            },
+            {
+                "step": "查看详情",
+                "status": "completed",
+                "time": "2026-01-01 15:46:30"
+            }
+        ],
+        "details": {
+            "archiveId": "archive_004",
+            "viewCount": 1,
+            "downloaded": false
+        }
+    },
+    {
+        "id": "history_006",
+        "action": "知识库问答",
+        "documentTitle": "关于学生旷课处理的规定查询",
+        "documentType": "知识库查询",
+        "status": "已完成",
+        "timestamp": "2025-12-30 11:20:15",
+        "duration": "8分钟",
+        "steps": [
+            {
+                "step": "提出问题",
+                "status": "completed",
+                "time": "2025-12-30 11:20:15"
+            },
+            {
+                "step": "AI检索",
+                "status": "completed",
+                "time": "2025-12-30 11:20:30"
+            },
+            {
+                "step": "查看来源",
+                "status": "completed",
+                "time": "2025-12-30 11:25:45"
+            }
+        ],
+        "details": {
+            "question": "学生旷课怎么处理？",
+            "knowledgeBase": "制度法规库",
+            "sourcesFound": 2,
+            "satisfied": true
+        }
+    },
+    {
+        "id": "history_007",
+        "action": "创建文档",
+        "documentTitle": "关于开展2026年春季学期教学检查的通知",
+        "documentType": "行政公文",
+        "status": "已完成",
+        "timestamp": "2025-12-28 14:10:00",
+        "duration": "18分钟",
+        "steps": [
+            {
+                "step": "需求录入",
+                "status": "completed",
+                "time": "2025-12-28 14:10:00"
+            },
+            {
+                "step": "大纲确认",
+                "status": "completed",
+                "time": "2025-12-28 14:15:20"
+            },
+            {
+                "step": "智能撰写",
+                "status": "completed",
+                "time": "2025-12-28 14:20:35"
+            },
+            {
+                "step": "排版归档",
+                "status": "completed",
+                "time": "2025-12-28 14:28:00"
+            }
+        ],
+        "details": {
+            "scenario": "教学检查",
+            "template": "教学检查通知模板",
+            "wordCount": 923,
+            "exported": true,
+            "archived": true
+        }
+    },
+    {
+        "id": "history_008",
+        "action": "上传知识库",
+        "documentTitle": "实验室安全管理规定",
+        "documentType": "制度法规",
+        "status": "已完成",
+        "timestamp": "2025-12-25 10:30:45",
+        "duration": "12分钟",
+        "steps": [
+            {
+                "step": "上传文件",
+                "status": "completed",
+                "time": "2025-12-25 10:30:45"
+            },
+            {
+                "step": "属性标引",
+                "status": "completed",
+                "time": "2025-12-25 10:33:20"
+            },
+            {
+                "step": "智能解析",
+                "status": "completed",
+                "time": "2025-12-25 10:38:15"
+            },
+            {
+                "step": "脱敏确认",
+                "status": "completed",
+                "time": "2025-12-25 10:42:45"
+            }
+        ],
+        "details": {
+            "knowledgeBase": "制度法规库",
+            "fileSize": "2.3 MB",
+            "pageCount": 15,
+            "clausesExtracted": 28
+        }
+    }
+]

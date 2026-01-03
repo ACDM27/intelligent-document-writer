@@ -1,0 +1,176 @@
+{
+    "personalKpi": {
+        "totalDocuments": 87,
+        "savedHours": 28,
+        "savedDays": 3.5,
+        "mostUsedType": "科研申报",
+        "aiAdoptionRate": 85.2,
+        "efficiencyRanking": 95
+    },
+    "documentTypes": [
+        {
+            "name": "科研申报",
+            "value": 40,
+            "count": 35
+        },
+        {
+            "name": "教学材料",
+            "value": 25,
+            "count": 22
+        },
+        {
+            "name": "会议纪要",
+            "value": 20,
+            "count": 17
+        },
+        {
+            "name": "行政通知",
+            "value": 10,
+            "count": 9
+        },
+        {
+            "name": "其他",
+            "value": 5,
+            "count": 4
+        }
+    ],
+    "timeTrend": [
+        {
+            "month": "2025-07",
+            "count": 5
+        },
+        {
+            "month": "2025-08",
+            "count": 6
+        },
+        {
+            "month": "2025-09",
+            "count": 8
+        },
+        {
+            "month": "2025-10",
+            "count": 12
+        },
+        {
+            "month": "2025-11",
+            "count": 10
+        },
+        {
+            "month": "2025-12",
+            "count": 15
+        },
+        {
+            "month": "2026-01",
+            "count": 18
+        },
+        {
+            "month": "2026-02",
+            "count": 7
+        },
+        {
+            "month": "2026-03",
+            "count": 6
+        }
+    ],
+    "favoriteTemplates": [
+        {
+            "id": 1,
+            "name": "国自然申报书模板",
+            "category": "科研申报",
+            "useCount": 12,
+            "lastUsed": "2026-01-03"
+        },
+        {
+            "id": 2,
+            "name": "教学大纲模板",
+            "category": "教学材料",
+            "useCount": 8,
+            "lastUsed": "2026-01-02"
+        },
+        {
+            "id": 3,
+            "name": "科研项目申请书",
+            "category": "科研申报",
+            "useCount": 7,
+            "lastUsed": "2025-12-28"
+        },
+        {
+            "id": 4,
+            "name": "会议纪要标准模板",
+            "category": "会议纪要",
+            "useCount": 6,
+            "lastUsed": "2025-12-25"
+        },
+        {
+            "id": 5,
+            "name": "课程设计任务书",
+            "category": "教学材料",
+            "useCount": 5,
+            "lastUsed": "2025-12-20"
+        }
+    ],
+    "recentDocuments": [
+        {
+            "id": 1,
+            "title": "2026年国家自然科学基金申请书",
+            "type": "科研申报",
+            "status": "已完成",
+            "createTime": "2026-01-03 14:23",
+            "aiAdoption": 88
+        },
+        {
+            "id": 2,
+            "title": "《数据结构》课程教学大纲",
+            "type": "教学材料",
+            "status": "审核中",
+            "createTime": "2026-01-02 10:15",
+            "aiAdoption": 92
+        },
+        {
+            "id": 3,
+            "title": "学院教学工作会议纪要",
+            "type": "会议纪要",
+            "status": "已完成",
+            "createTime": "2025-12-28 16:45",
+            "aiAdoption": 75
+        },
+        {
+            "id": 4,
+            "title": "科研项目中期检查报告",
+            "type": "科研申报",
+            "status": "已完成",
+            "createTime": "2025-12-25 09:30",
+            "aiAdoption": 82
+        }
+    ],
+    "achievements": [
+        {
+            "title": "高效写手",
+            "description": "累计生成文书超过50份",
+            "icon": "Trophy",
+            "unlocked": true,
+            "date": "2025-11-15"
+        },
+        {
+            "title": "AI达人",
+            "description": "AI采纳率超过80%",
+            "icon": "MagicStick",
+            "unlocked": true,
+            "date": "2025-12-01"
+        },
+        {
+            "title": "效率之星",
+            "description": "效率排名进入前5%",
+            "icon": "Star",
+            "unlocked": true,
+            "date": "2025-12-20"
+        },
+        {
+            "title": "百篇里程碑",
+            "description": "累计生成文书超过100份",
+            "icon": "Medal",
+            "unlocked": false,
+            "date": null
+        }
+    ]
+}
