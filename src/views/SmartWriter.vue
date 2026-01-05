@@ -225,6 +225,7 @@ import { ElMessage } from 'element-plus'
 import { useSteps } from '@/composables/useSteps'
 import { useTypewriter } from '@/composables/useTypewriter'
 import RedHeaderDoc from '@/components/RedHeaderDoc.vue'
+import { exportToWord } from '@/utils/exportWord'
 import scenariosData from '@/mock/scenarios.json'
 import generationData from '@/mock/generation_stream.json'
 
@@ -313,8 +314,18 @@ const startAIThinking = async () => {
 }
 
 // 导出 Word
-const handleExport = () => {
-  ElMessage.success('文档导出成功（模拟）')
+const handleExport = async () => {
+  try {
+    await exportToWord(stepData.value.generatedContent, {
+      headerType: stepData.value.headerType,
+      showSeal: stepData.value.showSeal,
+      fileName: stepData.value.generatedContent?.title || '公文'
+    })
+    ElMessage.success('Word文档导出成功')
+  } catch (error) {
+    console.error('导出失败:', error)
+    ElMessage.error('文档导出失败，请重试')
+  }
 }
 
 // 发起审批
